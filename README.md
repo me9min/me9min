@@ -1,16 +1,20 @@
 ![title](https://amel.kr/dl/bsm.png)
 
- 백엔드 개발 또는 빌드한 프로젝트들을 리눅스+도커🐳 환경으로 서비스하는것을 좋아하며 더배우고싶은 99년생 백승민입니다!
+백엔드 개발 또는 빌드한 프로젝트들을 리눅스+도커🐳 환경으로 서비스하는것을 좋아하며 더배우고싶은 99년생 백승민입니다!
 
- ### 🔓 주로 사용하는 언어
+### 🔓 주로 사용하는 언어
+<a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+</a>
 
 ### 🏭 사용해본 프레임워크,환경 등
+<a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0F6CB3?style=flat&logo=docker&logoColor=white"/>
+</a>
 
 ## 💾 진행한 프로젝트들
 
