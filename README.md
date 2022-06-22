@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Unity-040404?style=flat&logo=unity&logoColor=white"/>
 </p>
 
-## 💾 진행한 프로젝트들
+## 👬 주관한 팀프로젝트
 
 <ul>
 
@@ -32,4 +32,4 @@
 
 ### 🔔 연락처
 
-📧이메일: zlws554@gmail.com
+이메일📧: zlws554@gmail.com
