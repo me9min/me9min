@@ -24,7 +24,7 @@
 
 프로젝트|서비스|상태
 ---|---|---
-[플레어 웹프로젝트](https://github.com/me9min/HOSEO-2A-2-Plare) | [Plare](amel.kr) | 완료
+[플레어 웹프로젝트](https://github.com/me9min/HOSEO-2A-2-Plare) | [Plare](http://amel.kr) | 완료
 
 </ul>
 
