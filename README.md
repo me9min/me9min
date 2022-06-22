@@ -24,7 +24,7 @@
 
 프로젝트|미리보기|역할|상태
 ---|---|---|---
-[플레어 웹프로젝트](https://github.com/me9min/HOSEO-2A-2-Plare) | [Plare](http://amel.kr) | 팀장,메인코더 | 완료
+[플레어 웹프로젝트](https://github.com/me9min/HOSEO-2A-2-Plare) | [Plare](http://amel.kr) | 기획,메인코더 | 완료
 
 </ul>
 
