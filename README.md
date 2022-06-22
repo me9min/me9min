@@ -18,13 +18,23 @@
 <img src="https://img.shields.io/badge/Unity-040404?style=flat&logo=unity&logoColor=white"/>
 </p>
 
-## 👬 주관한 팀프로젝트
+## 👬 주관 또는 많은기여를한 팀프로젝트
 
 <ul>
 
-프로젝트|서비스|상태
----|---|---
-[플레어 웹프로젝트](https://github.com/me9min/HOSEO-2A-2-Plare) | [Plare](http://amel.kr) | 완료
+프로젝트|미리보기|역할|상태
+---|---|---|---
+[플레어 웹프로젝트](https://github.com/me9min/HOSEO-2A-2-Plare) | [Plare](http://amel.kr) | 팀장,메인코더 | 완료
+
+</ul>
+
+## 👩‍👦‍👦 참여한 팀프로젝트
+
+<ul>
+
+프로젝트|미리보기|역할|상태
+---|---|---|---
+[GUARDIAN - CCTV감지체계](https://github.com/osamhack2020/WEB_GUARDIAN_GUARDIAN) | X | 웹백엔드 | 완료
 
 </ul>
 
