@@ -2,7 +2,8 @@
 
 백엔드 개발 또는 빌드한 프로젝트들을 리눅스+도커🐳 환경으로 서비스하는것을 좋아하며 더배우고싶은 99년생 백승민입니다!
 
-## 🔓 백엔드
+# 🔓 백엔드 Back-End
+
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white"/>
     <br/>
@@ -39,7 +40,8 @@
 </p>
 <br/>
 
-## 🏭 인프라
+# 🏭 인프라 Infra
+
 <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
     <br/>
@@ -55,13 +57,14 @@
 </p>
 <br/>
 
-## 🏭 데브옵스
+# 🧰 데브옵스 Dev-Ops
+
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
 <br/>
 
-## 👬 주관 또는 많은기여를한 팀프로젝트
+# 👬 주관 또는 많은기여를한 팀프로젝트
 
 <ul>
 
@@ -71,7 +74,7 @@
 
 </ul>
 
-## 👩‍👦‍👦 참여한 팀프로젝트
+# 👩‍👦‍👦 참여한 팀프로젝트
 
 <ul>
 
@@ -83,6 +86,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=me9min)](https://github-readme-stats.vercel.app/api?username=me9min)
 
-### 🔔 연락처
+# 🔔 연락처
 
 이메일📧: zlws554@gmail.com
