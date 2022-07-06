@@ -7,8 +7,6 @@
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white"/>
     <br/>
-    <img src="https://img.shields.io/badge/Java 8-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java 11-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tomcat-83682E?style=for-the-badge&logo=Apache-Tomcat&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -24,8 +22,7 @@
 <p>
     <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=Databricks&logoColor=white"/>
     <br/>
-    <img src="https://img.shields.io/badge/MySQL 5-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL 8-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB 10-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </p>
 <br/>
