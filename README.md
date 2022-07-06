@@ -2,13 +2,39 @@
 
 백엔드 개발 또는 빌드한 프로젝트들을 리눅스+도커🐳 환경으로 서비스하는것을 좋아하며 더배우고싶은 99년생 백승민입니다!
 
-### 🔓 사용해본 언어
+### 🔓 백엔드
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=oracle&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Java 8-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java 11-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tomcat-83682E?style=flat&logo=Apache-Tomcat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSP-6DB33F?style=flat&logo=oracle&logoColor=white"/>
+</p>
+<br/>
+<p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-339933?style=flat&logo=Express&logoColor=white"/>
+</p>
+<br/>
+<p>
+    <img src="https://img.shields.io/badge/Database-4479A1?style=flat&logo=Databricks&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/MySQL 5-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL 8-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB 10-003545?style=flat&logo=mariadb&logoColor=white"/>
+</p>
+<br/>
+<p>
+
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-234969?style=flat&logo=python&logoColor=white"/>
 </p>
+
+
 
 ### 🏭 사용해본 환경,툴 등
 <p>
